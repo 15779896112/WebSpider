@@ -16,12 +16,11 @@
 # http://fanyi.youdao.com/translate_o?smartresult=dict&smartresult=rule
 
 import requests
-import  urllib.parse
 headers = {
 "User-Agent":"User-Agent, Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11"
 }
 data = {
-    'i': '艹尼玛',
+    'i': '哈哈',
     'from': 'AUTO',
     'to': 'AUTO',
     'smartresult': 'dict',
