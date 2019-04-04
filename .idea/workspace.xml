@@ -2,106 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ae87b20-ba5a-460a-9bf3-57be6045eb57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/10.百度翻译.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/11.腾讯招聘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/12.豆瓣.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/13.图片读取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/14.音乐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/15.视频.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/8.嗅事百科.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/9.人人网模拟登陆.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/一一.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/七武士.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/三傻大闹宝莱坞.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/丛林赤子心.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/东京物语.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/两杆大烟枪.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/乱世佳人.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/从海底出击.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/切腹.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/剃头匠.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/南海十三郎.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/哀乐中年.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/地下.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/城市之光.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/大独裁者.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/天堂回信.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/天堂电影院.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/女人步上楼梯时.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/完美的世界.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/寻子遇仙记.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/小森林 冬春篇.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/小森林 夏秋篇.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/小鞋子.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/少年派的奇幻漂流.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/巴黎圣母院.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/当幸福来敲门.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/忠犬八公物语.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/怦然心动.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/情迷意乱.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/我不是药神.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/我爱你.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/战争与和平.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/指环王1：魔戒再现.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/指环王2：双塔奇兵.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/指环王3：王者无敌.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/搏击俱乐部.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/摔跤吧！爸爸.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/摩登时代.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/攻壳机动队2：无罪.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/教父.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/教父2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/无人知晓.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/无言的山丘.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/无间道.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/星际穿越.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/末代皇帝.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/楚门的世界.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/死亡诗社.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/沉静如海.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/洞.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/活着.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/海上钢琴师.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/海蒂和爷爷.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/熊的故事.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/熔炉.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/爱·回家.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/狐妖小红娘剧场版：王权富贵.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/狩猎.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/狮子王.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/生之欲.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/生活多美好.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/穿条纹睡衣的男孩.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/窃听风暴.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/素媛.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/红鳉鱼.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/罗马假日.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/美国往事.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/芙蓉镇.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/莫娣.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/蝙蝠侠：黑暗骑士.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/触不可及.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/超感猎杀：完结特别篇.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/辩护人.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/钢琴家.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/闻香识女人.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/音乐之声.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/飞越疯人院.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/饮食男女.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/鬼子来了.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/img/鳄鱼波鞋走天涯.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/my.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/my.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/电影排行榜.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/笑话大全.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/16.爬百度图片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/09_腾讯招聘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/1_深度爬取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/2_广度爬虫.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/3_beautifulfulsoupDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/4_bs4_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/5_前途无忧.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/6_quote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/10.百度翻译.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/10.百度翻译.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day02/2.qqzone.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/2.qqzone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/5.requests_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/5.requests_post.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/人人网模拟登陆.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/图片.jbg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/百度翻译.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/腾讯招聘.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/豆瓣.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,25 +25,65 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/$8_.coverage" NAME="8.嗅事百科 Coverage Results" MODIFIED="1554206739092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/$13_.coverage" NAME="13.图片读取 Coverage Results" MODIFIED="1554211037520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$6_quote.coverage" NAME="6_quote Coverage Results" MODIFIED="1554293378243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/$requests_auth.coverage" NAME="requests_auth Coverage Results" MODIFIED="1554194583954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
-    <SUITE FILE_PATH="coverage/$14_.coverage" NAME="14.音乐 Coverage Results" MODIFIED="1554211614474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$09_.coverage" NAME="09_腾讯招聘 Coverage Results" MODIFIED="1554337136480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/$requests_post.coverage" NAME="requests_post Coverage Results" MODIFIED="1554194251870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
-    <SUITE FILE_PATH="coverage/$5_requests_post.coverage" NAME="5.requests_post Coverage Results" MODIFIED="1554198282797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
-    <SUITE FILE_PATH="coverage/$2_qqzone.coverage" NAME="2.qqzone Coverage Results" MODIFIED="1554206021918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$2_qqzone.coverage" NAME="2.qqzone Coverage Results" MODIFIED="1554254899379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$3_beautifulfulsoupDemo.coverage" NAME="3_beautifulfulsoupDemo Coverage Results" MODIFIED="1554273593803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/$07_.coverage" NAME="07_豆瓣 Coverage Results" MODIFIED="1554293368196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/$3_.coverage" NAME="3.代理 Coverage Results" MODIFIED="1554189506079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/$7_cookie.coverage" NAME="7.cookie Coverage Results" MODIFIED="1554194886895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/$15_.coverage" NAME="15.视频 Coverage Results" MODIFIED="1554212335325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
-    <SUITE FILE_PATH="coverage/$4_.coverage" NAME="4_前程无忧 Coverage Results" MODIFIED="1554117712532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$2.coverage" NAME="2 Coverage Results" MODIFIED="1554260283103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/$5_.coverage" NAME="5.网易云音乐 Coverage Results" MODIFIED="1554126113779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$2_.coverage" NAME="2_模拟百度搜索 Coverage Results" MODIFIED="1554107351053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$6_.coverage" NAME="6.豆瓣 Coverage Results" MODIFIED="1554127603738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$10_.coverage" NAME="10.百度翻译 Coverage Results" MODIFIED="1554253366744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$2_.coverage" NAME="2_广度爬虫 Coverage Results" MODIFIED="1554338127808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
     <SUITE FILE_PATH="coverage/$4_requests.coverage" NAME="4.requests Coverage Results" MODIFIED="1554192890646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="豆瓣 Coverage Results" MODIFIED="1554209246124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/$qqzone.coverage" NAME="qqzone Coverage Results" MODIFIED="1554185465849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
     <SUITE FILE_PATH="coverage/$7_.coverage" NAME="7.阿里招聘 Coverage Results" MODIFIED="1554122149626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1554174692046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
-    <SUITE FILE_PATH="coverage/$7___1_.coverage" NAME="7.阿里招聘 (1) Coverage Results" MODIFIED="1554170016750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
     <SUITE FILE_PATH="coverage/$12_.coverage" NAME="12.豆瓣 Coverage Results" MODIFIED="1554210964273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$08_.coverage" NAME="08_糗事百科 Coverage Results" MODIFIED="1554284769430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/$14_.coverage" NAME="14.音乐 Coverage Results" MODIFIED="1554211614474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$5_requests_post.coverage" NAME="5.requests_post Coverage Results" MODIFIED="1554198282797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$4_.coverage" NAME="4_前程无忧 Coverage Results" MODIFIED="1554117712532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$16_.coverage" NAME="16.爬百度图片 Coverage Results" MODIFIED="1554214467509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$4_bs4_test.coverage" NAME="4_bs4_test Coverage Results" MODIFIED="1554276918540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/$6_.coverage" NAME="6.豆瓣 Coverage Results" MODIFIED="1554127603738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1554174692046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
+    <SUITE FILE_PATH="coverage/$1_.coverage" NAME="1_深度爬取 Coverage Results" MODIFIED="1554273603481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03" />
+    <SUITE FILE_PATH="coverage/$7___1_.coverage" NAME="7.阿里招聘 (1) Coverage Results" MODIFIED="1554170016750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="python1812@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="python1812@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="python1812@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="python1812: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="7047374">
@@ -172,35 +125,47 @@
     <session id="100049143">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.47" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="11" />
-          <entry key="py" value="1281" />
-          <entry key="txt" value="1" />
+          <entry key="dummy" value="17" />
+          <entry key="html" value="68" />
+          <entry key="py" value="4276" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="1281" />
+          <entry key="HTML" value="68" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Python" value="4276" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="html" value="2" />
+          <entry key="jobs" value="2" />
           <entry key="jpg" value="1" />
-          <entry key="py" value="12" />
-          <entry key="txt" value="15" />
+          <entry key="py" value="50" />
+          <entry key="sql" value="1" />
+          <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Database Element" value="2" />
+          <entry key="HTML" value="2" />
           <entry key="Image" value="1" />
-          <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="12" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Python" value="50" />
+          <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -208,63 +173,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02/8.嗅事百科.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="54" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="54" />
-              <folding>
-                <element signature="e#45#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02/12.豆瓣.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02/13.图片读取.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="1" selection-start-line="3" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02/14.音乐.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day02/15.视频.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01/5.网易云音乐.py">
+        <entry file="file://$PROJECT_DIR$/day03/4_bs4_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
+              <caret selection-end-line="8" selection-end-column="15" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -273,40 +185,87 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01/alibaba.txt">
+        <entry file="file://$PROJECT_DIR$/day03/1_深度爬取.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02/笑话大全.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2646">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="486">
+              <caret line="55" column="73" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02/电影排行榜.txt">
+        <entry file="file://$PROJECT_DIR$/day03/6_quote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="336" selection-start-line="336" selection-end-line="355" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02/2.qqzone.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="342">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <element signature="e#1078#1105#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day03/2_广度爬虫.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <element signature="e#60#69#0" expanded="true" />
+                <marker date="1554338127738" expanded="true" signature="590:595" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03/07_豆瓣.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03/08_糗事百科.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03/3_beautifulfulsoupDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03/09_腾讯招聘.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03/5_前途无忧.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -314,6 +273,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -345,7 +305,6 @@
         <option value="$PROJECT_DIR$/day02/百度翻译.py" />
         <option value="$PROJECT_DIR$/day02/腾讯招聘.py" />
         <option value="$PROJECT_DIR$/day02/人人网模拟登陆.py" />
-        <option value="$PROJECT_DIR$/day02/2.qqzone.py" />
         <option value="$PROJECT_DIR$/day02/8.嗅事百科.py" />
         <option value="$PROJECT_DIR$/day02/笑话大全.txt" />
         <option value="$PROJECT_DIR$/day02/豆瓣.py" />
@@ -354,6 +313,21 @@
         <option value="$PROJECT_DIR$/day02/13.图片读取.py" />
         <option value="$PROJECT_DIR$/day02/14.音乐.py" />
         <option value="$PROJECT_DIR$/day02/15.视频.py" />
+        <option value="$PROJECT_DIR$/day02/10.百度翻译.py" />
+        <option value="$PROJECT_DIR$/day02/2.qqzone.py" />
+        <option value="$PROJECT_DIR$/day03/2.py" />
+        <option value="$PROJECT_DIR$/day02/16.爬百度图片.py" />
+        <option value="$PROJECT_DIR$/day03/1_深度爬取.py" />
+        <option value="$PROJECT_DIR$/day03/index.html" />
+        <option value="$PROJECT_DIR$/day03/3_beautifulfulsoupDemo.py" />
+        <option value="$PROJECT_DIR$/day03/4_bs4_test.py" />
+        <option value="$PROJECT_DIR$/day03/5_前途无忧.py" />
+        <option value="$PROJECT_DIR$/day03/6_quote.py" />
+        <option value="$PROJECT_DIR$/day03/07_豆瓣.py" />
+        <option value="$PROJECT_DIR$/day03/笑话大全.txt" />
+        <option value="$PROJECT_DIR$/day03/08_糗事百科.py" />
+        <option value="$PROJECT_DIR$/day03/09_腾讯招聘.py" />
+        <option value="$PROJECT_DIR$/day03/2_广度爬虫.py" />
       </list>
     </option>
   </component>
@@ -364,10 +338,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-50" />
-    <option name="y" value="122" />
-    <option name="width" value="1703" />
-    <option name="height" value="865" />
+    <option name="x" value="291" />
+    <option name="y" value="98" />
+    <option name="width" value="1260" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -386,18 +360,7 @@
             <path>
               <item name="爬虫练习" type="b2602c69:ProjectViewProjectNode" />
               <item name="爬虫练习" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫练习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫练习" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫练习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫练习" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,7 +369,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -429,8 +395,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15.视频">
-    <configuration name="豆瓣" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2_广度爬虫">
+    <configuration name="07_豆瓣" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -438,12 +404,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\git\Git\爬虫练习\day02\12.豆瓣.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/07_豆瓣.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -452,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12.豆瓣" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="08_糗事百科" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -460,12 +426,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/12.豆瓣.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/08_糗事百科.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -474,7 +440,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13.图片读取" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="09_腾讯招聘" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -482,12 +448,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/13.图片读取.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/09_腾讯招聘.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -496,7 +462,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14.音乐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_广度爬虫" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -504,12 +470,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/14.音乐.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/2_广度爬虫.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -518,7 +484,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15.视频" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_quote" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -526,12 +492,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/15.视频.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/6_quote.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -541,19 +507,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.豆瓣" />
-      <item itemvalue="Python.13.图片读取" />
-      <item itemvalue="Python.12.豆瓣" />
-      <item itemvalue="Python.14.音乐" />
-      <item itemvalue="Python.15.视频" />
+      <item itemvalue="Python.6_quote" />
+      <item itemvalue="Python.07_豆瓣" />
+      <item itemvalue="Python.08_糗事百科" />
+      <item itemvalue="Python.09_腾讯招聘" />
+      <item itemvalue="Python.2_广度爬虫" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15.视频" />
-        <item itemvalue="Python.14.音乐" />
-        <item itemvalue="Python.13.图片读取" />
-        <item itemvalue="Python.12.豆瓣" />
-        <item itemvalue="Python.豆瓣" />
+        <item itemvalue="Python.2_广度爬虫" />
+        <item itemvalue="Python.09_腾讯招聘" />
+        <item itemvalue="Python.6_quote" />
+        <item itemvalue="Python.07_豆瓣" />
+        <item itemvalue="Python.08_糗事百科" />
       </list>
     </recent_temporary>
   </component>
@@ -572,28 +538,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25201073" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18230563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25139666" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.15782122" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980447" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3927959" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.43435755" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5120773" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32943144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.08579089" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,23 +571,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/baidu.html" />
-    <entry file="file://$PROJECT_DIR$/alibaba.txt" />
-    <entry file="file://$PROJECT_DIR$/7.阿里招聘.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="295" selection-start-line="295" selection-end-line="295" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -650,23 +601,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day01/8.嗅事百科.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="e#45#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day02/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="1" selection-start-line="10" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,9 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="28" lean-forward="true" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,9 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,33 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day02/10.百度翻译.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/11.腾讯招聘.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/9.人人网模拟登陆.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day02/7.cookie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -738,77 +643,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day02/img/三傻大闹宝莱坞.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/12.豆瓣.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/img/三傻大闹宝莱坞.jpg" />
     <entry file="file://$PROJECT_DIR$/day01/alibaba.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-270" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/13.图片读取.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="1" selection-start-line="3" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01/5.网易云音乐.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day02/3.代理.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/8.嗅事百科.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="54" />
-          <folding>
-            <element signature="e#45#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/笑话大全.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2646">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/2.qqzone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="e#1078#1105#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -819,10 +663,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day02/14.音乐.py">
+    <entry file="file://$PROJECT_DIR$/day02/笑话大全.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="-17298">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -830,6 +674,210 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/13.图片读取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="29" selection-start-line="15" selection-start-column="8" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/[python1812]/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="645" selection-start-line="645" selection-end-line="645" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/12.豆瓣.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/11.腾讯招聘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/10.百度翻译.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="19" column="1" selection-start-line="19" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/2.qqzone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/9.人人网模拟登陆.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/2.py" />
+    <entry file="file://$PROJECT_DIR$/day02/16.爬百度图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/14.音乐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="2" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/5.网易云音乐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" selection-start-line="9" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/8.嗅事百科.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/8.嗅事百科.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/[python1812]/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/[python1812]/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/笑话大全.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ddb9b582-420a-4484-bf92-0ebef2e591b2/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/4_bs4_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/6_quote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/07_豆瓣.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/08_糗事百科.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/3_beautifulfulsoupDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/[python1812]/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="353" column="44" lean-forward="true" selection-start-line="353" selection-start-column="44" selection-end-line="353" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ddb9b582-420a-4484-bf92-0ebef2e591b2/schema/python1812/table/jobs">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/09_腾讯招聘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/5_前途无忧.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/1_深度爬取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="55" column="73" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/2_广度爬虫.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="e#60#69#0" expanded="true" />
+            <marker date="1554338127738" expanded="true" signature="590:595" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

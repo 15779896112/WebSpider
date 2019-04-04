@@ -1,5 +1,8 @@
+import json
+
 import requests
 import urllib.parse
+
 
 headers = {
     'Accept': '*/*',
@@ -19,7 +22,7 @@ headers = {
 data = {
     'from':'zh',
     'to':'en',
-    'query':'啊啊',
+    'query':'自由',
     'transtype':'translang',
     'simple_means_flag':3,
     'sign': '384913.81056',
@@ -27,8 +30,10 @@ data = {
 }
 
 
-url = 'https://fanyi.baidu.com/v2transapi'
+url = 'https://fanyi.baidu.com/transapi'
 response = requests.post(url,data=data,headers=headers)
 response.encoding = 'utf-8'
+res = response.text
+res = json.loads(res)
+print(res['data'][0]['src']+':'+res['data'][0]['dst'])
 
-print(response.text)
