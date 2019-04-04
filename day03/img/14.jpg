@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>5CA4554FB85099867C4729A7</RequestId>
-  <HostId>cms-yzz-cn.oss-cn-shenzhen.aliyuncs.com</HostId>
-  <Key>news/public/images/100618/68_171504_14.jpg</Key>
-</Error>
